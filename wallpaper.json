@@ -1,0 +1,63 @@
+[{
+        "name": "CesiumOS_1",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/CesiumOS_1.png",
+        "downloadable": true
+    },
+	{
+        "name": "CesiumOS_2",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/CesiumOS_2.png",
+        "downloadable": true
+    },
+	{
+        "name": "Black",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/black.png",
+        "downloadable": true
+    },
+	{
+        "name": "Black-Blue",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/blacknblu.png",
+        "downloadable": true
+    },
+
+        {
+        "name": "Dark",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/dark.png",
+        "downloadable": true
+    },
+        {
+        "name": "Dark_2",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/darkv2.png",
+        "downloadable": true
+    },
+        {
+        "name": "Gradient",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/gradiente.png",
+        "downloadable": true
+    },
+
+        {
+        "name": "Gradient-Dark",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/gradientev2_dark.png",
+        "downloadable": true
+    },
+        {
+        "name": "Gradient-Light",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/gradientev2_light.png",
+        "downloadable": true
+    },
+        {
+        "name": "Light",
+        "author": "Nikhil",
+        "url": "https://raw.githubusercontent.com/CesiumOS/wallpapers/master/drawables/light.png",
+        "downloadable": true
+    }
+]
